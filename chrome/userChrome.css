@@ -58,6 +58,7 @@ Window controls will be all wrong without it
 
 #toolbar-menubar{ height: initial !important; background-color: #96e6ff!important;}
 #toolbar-menubar[inactive] > :not(.titlebar-buttonbox-container){ opacity: 0; pointer-events: none; }
+/* IF THE BAR IS TOO CLOSE TO THE TOP CHANGE MARGIN-BOTTOM FROM 10PX TO A HIGHER VALUE */
 #toolbar-menubar[inactive]{ margin-bottom: calc(10px - var(--uc-toolbar-height)); }
 
 #TabsToolbar > .titlebar-buttonbox-container,
