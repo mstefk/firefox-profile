@@ -89,7 +89,7 @@ connect.facebook.net^partitionKey=%28http%2Cudaljenosti.com%29:HSTS	0	18836	1659
 login.wikimedia.org^partitionKey=%28http%2Cwikipedia.org%29:HSTS	0	18835	1733804373225,1,1,2
 fonts.googleapis.com^partitionKey=%28http%2Cyoutube.com%29:HSTS	2	18837	1659105255323,1,0,2
 connect.facebook.net^partitionKey=%28http%2Cmsn.com%29:HSTS	0	18837	1659099796524,1,1,2
-alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	2	18837	1659117316141,1,0,2
+alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	2	18837	1659117550084,1,0,2
 fonts.googleapis.com^partitionKey=%28http%2Caddy-dclxvi.github.io%29:HSTS	1	18836	1659034655501,1,0,2
 support.mozilla.org^partitionKey=%28http%2Cmozilla.org%29:HSTS	2	18837	1659109955007,1,0,2
 incoming.telemetry.mozilla.org:HSTS	0	18834	1643102571863,1,0,2
@@ -185,7 +185,7 @@ a.disquscdn.com^partitionKey=%28http%2Cjdhao.github.io%29:HSTS	0	18834	162733922
 raw.githubusercontent.com:HSTS	0	18834	1658870816078,1,0,2
 maxcdn.bootstrapcdn.com^partitionKey=%28http%2Ccolor-hex.com%29:HSTS	0	18836	1659017376832,1,1,2
 cdn.cookielaw.org^partitionKey=%28http%2Ccolor-hex.com%29:HSTS	0	18836	1659029832721,1,1,2
-avatars.githubusercontent.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659138860722,1,0,2
+avatars.githubusercontent.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659138969190,1,0,2
 www.mankier.com^partitionKey=%28http%2Cmankier.com%29:HSTS	0	18835	1658940161853,1,1,2
 addons.cdn.mozilla.net:HSTS	1	18837	1659114466452,1,1,2
 addons.mozilla.org:HSTS	1	18837	1659114354469,1,0,2
@@ -197,7 +197,7 @@ js.stripe.com^partitionKey=%28http%2Cfontawesome.com%29:HSTS	0	18836	16590438296
 w.soundcloud.com^partitionKey=%28http%2Ctotallynoob.com%29:HSTS	0	18836	1690568675127,1,0,2
 fonts.googleapis.com^partitionKey=%28http%2Chow2shout.com%29:HSTS	0	18835	1658941698490,1,0,2
 www.facebook.com^partitionKey=%28http%2Cfossmint.com%29:HSTS	0	18835	1642979425833,1,0,2
-github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659117312299,1,1,2
+github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659117549474,1,1,2
 gew-spclient.spotify.com^partitionKey=%28http%2Creddit.com%29:HSTS	0	18837	1659116413944,1,0,2
 fonts.googleapis.com^partitionKey=%28http%2Cdelftstack.com%29:HSTS	0	18835	1658929974014,1,0,2
 apis.google.com^partitionKey=%28http%2Cjdhao.github.io%29:HSTS	1	18835	1658917660281,1,0,2
@@ -231,7 +231,7 @@ geolocation.onetrust.com^partitionKey=%28http%2Cssh.com%29:HSTS	0	18836	16590265
 bugs.archlinux.org^partitionKey=%28http%2Carchlinux.org%29:HSTS	1	18835	1658928918995,1,1,2
 links.duckduckgo.com^partitionKey=%28http%2Cduckduckgo.com%29:HSTS	3	18837	1659115950327,1,0,2
 www.how2shout.com^partitionKey=%28http%2Chow2shout.com%29:HSTS	0	18835	1690477699680,1,1,2
-github.githubassets.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659117105935,1,0,2
+github.githubassets.com^partitionKey=%28http%2Cgithub.com%29:HSTS	3	18837	1659117378842,1,0,2
 cdn.jsdelivr.net^partitionKey=%28http%2Cublockorigin.com%29:HSTS	0	18834	1658870618303,1,1,2
 use.typekit.net^partitionKey=%28http%2Cserverwatch.com%29:HSTS	0	18834	1658874914640,1,1,2
 static.addtoany.com^partitionKey=%28http%2Cudemy.com%29:HSTS	0	18835	1658932670621,1,1,2
@@ -256,7 +256,7 @@ www.googletagmanager.com^partitionKey=%28http%2Cmozilla.org%29:HSTS	2	18837	1659
 superuser.com^partitionKey=%28http%2Csuperuser.com%29:HSTS	1	18836	1643050157808,1,0,2
 yari-demos.prod.mdn.mozit.cloud^partitionKey=%28http%2Cmozilla.org%29:HSTS	0	18837	1690645997188,1,0,2
 apis.google.com^partitionKey=%28http%2Cudaljenosti.com%29:HSTS	0	18836	1659031204738,1,0,2
-ac.duckduckgo.com^firstPartyDomain=ddg.search.suggestions.mozilla:HSTS	3	18837	1659117094174,1,0,2
+ac.duckduckgo.com^firstPartyDomain=ddg.search.suggestions.mozilla:HSTS	3	18837	1659117342630,1,0,2
 www.facebook.com^partitionKey=%28http%2Cfile-extensions.org%29:HSTS	0	18836	1643038610103,1,0,2
 external-content.duckduckgo.com^partitionKey=%28http%2Cduckduckgo.com%29:HSTS	3	18837	1659115951321,1,0,2
 fonts.googleapis.com^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	18835	1658938272960,1,0,2
